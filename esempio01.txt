@@ -1,0 +1,81 @@
+20
+Bianco
+5 Acciughe Ananas Cipolla Caciocavallo Champignon
+3 Broccoli Carciofi Burrata
+2 Cavolo_Nero Asparagi
+Bushulli
+0
+3 Capperi Basilico Crema_di_Zucca
+3 Carciofini Bacon Aglio
+Caligiuri
+4 Banane Cavolo_Nero Burrata Carciofini
+0
+3 Carciofi Broccoli Bresaola
+Cangini
+5 Bresaola Banane Carciofini Caciocavallo Acciughe
+4 Crema_di_Zucca Cipolla Champignon Capperi
+3 Broccoli Basilico Bacon
+Capanna
+1 Banane
+1 Acciughe
+0
+Capone
+0
+5 Caciocavallo Asparagi Banane Acciughe Crema_di_Zucca
+1 Bresaola
+Caporilli
+2 Carciofi Broccoli
+5 Bresaola Champignon Carciofini Cipolla_Rossa Asparagi
+5 Basilico Capperi Caciocavallo Acciughe Aglio
+Casadei
+5 Basilico Champignon Carciofi Caciocavallo Bacon
+4 Broccoli Brie Capperi Bresaola
+5 Banane Aglio Cavolo_Nero Carciofini Asparagi
+Chaibi
+1 Banane
+0
+1 Cipolla
+Cozzolino
+3 Ananas Crema_di_Zucca Asparagi
+2 Carciofi Caciocavallo
+4 Aglio Brie Acciughe Basilico
+DeAngelis
+1 Asparagi
+5 Bresaola Capperi Banane Cavolo_Nero Basilico
+0
+Ferrante
+4 Cipolla_Rossa Basilico Cavolo_Nero Bacon
+0
+1 Cipolla
+Forcina
+1 Broccoli
+5 Capperi Ananas Brie Bresaola Champignon
+2 Cavolo_Nero Caciocavallo
+Gentili
+1 Cipolla
+2 Cipolla_Rossa Caciocavallo
+0
+Guerra
+2 Basilico Champignon
+3 Banane Broccoli Ananas
+4 Capperi Burrata Asparagi Acciughe
+Guida
+2 Capperi Bresaola
+4 Champignon Carciofini Aglio Crema_di_Zucca
+5 Asparagi Cavolo_Nero Bacon Brie Acciughe
+Harasymiuk
+1 Bacon
+5 Capperi Broccoli Caciocavallo Carciofi Acciughe
+3 Crema_di_Zucca Champignon Cipolla_Rossa
+Moretti
+5 Carciofi Bresaola Ananas Cipolla Brie
+5 Champignon Banane Cipolla_Rossa Aglio Bacon
+2 Carciofini Acciughe
+Strazzanti
+3 Asparagi Cipolla_Rossa Bacon
+1 Crema_di_Zucca
+1 Burrata
+Terracciano
+0
+3 Brie Carciofi Cipolla
+3 Crema_di_Zucca Cipolla_Rossa Carciofini

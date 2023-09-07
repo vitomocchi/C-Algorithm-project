@@ -1,0 +1,37 @@
+10 ingredienti
+Banane 0 3 2
+Aglio 0 3 1
+Asparagi 0 2 2
+Basilico 0 1 0
+Ananas 1 2 0
+Acciughe 1 1 2
+Brie 1 1 1
+Bacon 1 0 3
+Bresaola 1 0 1
+Broccoli 2 1 0
+5 clienti
+Berardi 1 3
+Prelati 4 2
+Lippi 4 4
+Gallo 5 2
+Valbonesi 7 1
+esclusioni
+4 per 0 clienti
+5 per 1 clienti
+1 per 2 clienti
+4 coppie incompatibili
+Gallo Valbonesi
+Lippi Prelati
+Lippi Valbonesi
+Prelati Valbonesi
+almeno 3 pizze
+Lippi Prelati Valbonesi 
+4 pizze
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli 
+Berardi Lippi 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie 
+Prelati 
+Acciughe Aglio Asparagi Banane Basilico Bresaola 
+Valbonesi 
+Aglio Ananas Asparagi Bacon Banane Basilico Brie Broccoli 
+Gallo 

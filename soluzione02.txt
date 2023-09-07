@@ -1,0 +1,677 @@
+20 ingredienti
+Basilico 8 6 5
+Banane 9 6 1
+Brie 9 4 6
+Ananas 10 7 5
+Capperi 10 3 9
+Asparagi 11 5 6
+Cipolla_Rossa 11 5 4
+Cavolo_Nero 11 5 3
+Bresaola 11 3 4
+Burrata 12 5 7
+Caciocavallo 13 4 7
+Carciofini 13 4 7
+Aglio 13 3 7
+Carciofi 13 2 6
+Champignon 14 4 7
+Cipolla 14 4 6
+Acciughe 14 1 9
+Bacon 15 2 2
+Crema_di_Zucca 17 3 2
+Broccoli 18 5 3
+40 clienti
+Lattanzi 0 1
+Angelicchio 2 5
+Bellini 3 2
+Dotti 4 0
+Bagnaia 5 0
+DiStefano 5 4
+Fiumi 6 1
+Veneziano 6 3
+Delgado 6 4
+Brambilla 6 5
+Castagna 6 5
+Tarnogrodzki 7 3
+Nini 7 4
+Martys 7 5
+Castelli 8 0
+DeLuca 8 0
+Gealapu 8 2
+Perrone 8 2
+Vinciguerra 8 2
+Pompili 8 3
+Seri 8 4
+Wilmer 8 4
+Mucci 8 5
+Giurgola 9 1
+Valbonesi 9 3
+Pasolini 9 4
+Riboloni 9 4
+Milenov 10 0
+Sanges 10 0
+DiCarlo 10 1
+Chesti 10 3
+Nicastro 10 5
+Renzulli 11 2
+Bernardo 11 3
+Speziale 11 3
+Rudel 12 1
+Fico 13 3
+Rizzelli 13 4
+Fusini 13 5
+Leone 15 0
+esclusioni
+1 per 8 clienti
+2 per 9 clienti
+2 per 10 clienti
+4 per 11 clienti
+1 per 12 clienti
+4 per 13 clienti
+3 per 14 clienti
+1 per 15 clienti
+1 per 17 clienti
+1 per 18 clienti
+520 coppie incompatibili
+Angelicchio Castagna
+Angelicchio Castelli
+Angelicchio Delgado
+Angelicchio DiCarlo
+Angelicchio Fico
+Angelicchio Fusini
+Angelicchio Giurgola
+Angelicchio Leone
+Angelicchio Martys
+Angelicchio Milenov
+Angelicchio Nini
+Angelicchio Renzulli
+Angelicchio Rizzelli
+Angelicchio Rudel
+Angelicchio Sanges
+Angelicchio Seri
+Angelicchio Speziale
+Angelicchio Veneziano
+Bagnaia Brambilla
+Bagnaia Castagna
+Bagnaia Castelli
+Bagnaia Delgado
+Bagnaia Fico
+Bagnaia Fusini
+Bagnaia Leone
+Bagnaia Nicastro
+Bagnaia Perrone
+Bagnaia Pompili
+Bagnaia Renzulli
+Bagnaia Riboloni
+Bagnaia Rizzelli
+Bagnaia Speziale
+Bagnaia Valbonesi
+Bagnaia Veneziano
+Bagnaia Wilmer
+Bellini Bernardo
+Bellini Castagna
+Bellini Castelli
+Bellini Chesti
+Bellini DiCarlo
+Bellini Dotti
+Bellini Fico
+Bellini Gealapu
+Bellini Leone
+Bellini Mucci
+Bellini Pasolini
+Bellini Perrone
+Bellini Rizzelli
+Bellini Rudel
+Bellini Seri
+Bellini Valbonesi
+Bellini Veneziano
+Bernardo Brambilla
+Bernardo Castagna
+Bernardo Castelli
+Bernardo Chesti
+Bernardo DeLuca
+Bernardo Delgado
+Bernardo DiCarlo
+Bernardo DiStefano
+Bernardo Fico
+Bernardo Fusini
+Bernardo Gealapu
+Bernardo Giurgola
+Bernardo Leone
+Bernardo Martys
+Bernardo Milenov
+Bernardo Mucci
+Bernardo Nicastro
+Bernardo Nini
+Bernardo Pasolini
+Bernardo Perrone
+Bernardo Pompili
+Bernardo Renzulli
+Bernardo Riboloni
+Bernardo Rizzelli
+Bernardo Rudel
+Bernardo Sanges
+Bernardo Seri
+Bernardo Speziale
+Bernardo Tarnogrodzki
+Bernardo Valbonesi
+Bernardo Veneziano
+Bernardo Vinciguerra
+Brambilla Chesti
+Brambilla DiCarlo
+Brambilla Dotti
+Brambilla Fico
+Brambilla Fusini
+Brambilla Gealapu
+Brambilla Giurgola
+Brambilla Leone
+Brambilla Martys
+Brambilla Milenov
+Brambilla Mucci
+Brambilla Nicastro
+Brambilla Pasolini
+Brambilla Perrone
+Brambilla Pompili
+Brambilla Renzulli
+Brambilla Riboloni
+Brambilla Rizzelli
+Brambilla Rudel
+Brambilla Sanges
+Brambilla Seri
+Brambilla Speziale
+Brambilla Valbonesi
+Brambilla Vinciguerra
+Castagna Castelli
+Castagna Chesti
+Castagna DiCarlo
+Castagna DiStefano
+Castagna Dotti
+Castagna Fico
+Castagna Fiumi
+Castagna Fusini
+Castagna Gealapu
+Castagna Giurgola
+Castagna Leone
+Castagna Milenov
+Castagna Mucci
+Castagna Nicastro
+Castagna Pasolini
+Castagna Pompili
+Castagna Renzulli
+Castagna Riboloni
+Castagna Rizzelli
+Castagna Rudel
+Castagna Sanges
+Castagna Seri
+Castagna Speziale
+Castagna Tarnogrodzki
+Castagna Valbonesi
+Castagna Veneziano
+Castagna Vinciguerra
+Castagna Wilmer
+Castelli Chesti
+Castelli DeLuca
+Castelli Delgado
+Castelli DiStefano
+Castelli Fico
+Castelli Fiumi
+Castelli Fusini
+Castelli Gealapu
+Castelli Giurgola
+Castelli Leone
+Castelli Martys
+Castelli Mucci
+Castelli Nicastro
+Castelli Nini
+Castelli Pasolini
+Castelli Perrone
+Castelli Pompili
+Castelli Renzulli
+Castelli Riboloni
+Castelli Rizzelli
+Castelli Rudel
+Castelli Sanges
+Castelli Seri
+Castelli Tarnogrodzki
+Castelli Valbonesi
+Castelli Veneziano
+Castelli Vinciguerra
+Castelli Wilmer
+Chesti DeLuca
+Chesti Delgado
+Chesti DiCarlo
+Chesti DiStefano
+Chesti Fico
+Chesti Fiumi
+Chesti Fusini
+Chesti Gealapu
+Chesti Giurgola
+Chesti Leone
+Chesti Martys
+Chesti Milenov
+Chesti Mucci
+Chesti Nicastro
+Chesti Nini
+Chesti Perrone
+Chesti Pompili
+Chesti Renzulli
+Chesti Riboloni
+Chesti Rizzelli
+Chesti Rudel
+Chesti Sanges
+Chesti Speziale
+Chesti Valbonesi
+Chesti Veneziano
+Chesti Vinciguerra
+Chesti Wilmer
+DeLuca DiCarlo
+DeLuca Fico
+DeLuca Fusini
+DeLuca Gealapu
+DeLuca Leone
+DeLuca Milenov
+DeLuca Nicastro
+DeLuca Perrone
+DeLuca Pompili
+DeLuca Rizzelli
+DeLuca Rudel
+DeLuca Speziale
+DeLuca Valbonesi
+DeLuca Veneziano
+DeLuca Wilmer
+Delgado Dotti
+Delgado Fico
+Delgado Fusini
+Delgado Gealapu
+Delgado Leone
+Delgado Milenov
+Delgado Nicastro
+Delgado Perrone
+Delgado Pompili
+Delgado Renzulli
+Delgado Riboloni
+Delgado Rudel
+Delgado Sanges
+Delgado Speziale
+Delgado Valbonesi
+Delgado Veneziano
+Delgado Vinciguerra
+DiCarlo DiStefano
+DiCarlo Dotti
+DiCarlo Fico
+DiCarlo Fusini
+DiCarlo Gealapu
+DiCarlo Giurgola
+DiCarlo Leone
+DiCarlo Martys
+DiCarlo Mucci
+DiCarlo Nicastro
+DiCarlo Nini
+DiCarlo Pasolini
+DiCarlo Perrone
+DiCarlo Pompili
+DiCarlo Renzulli
+DiCarlo Riboloni
+DiCarlo Sanges
+DiCarlo Speziale
+DiCarlo Tarnogrodzki
+DiCarlo Valbonesi
+DiCarlo Veneziano
+DiCarlo Vinciguerra
+DiStefano Fico
+DiStefano Fusini
+DiStefano Leone
+DiStefano Martys
+DiStefano Nicastro
+DiStefano Perrone
+DiStefano Riboloni
+DiStefano Rizzelli
+DiStefano Speziale
+DiStefano Veneziano
+DiStefano Wilmer
+Dotti Fico
+Dotti Fusini
+Dotti Gealapu
+Dotti Giurgola
+Dotti Leone
+Dotti Martys
+Dotti Pasolini
+Dotti Renzulli
+Dotti Sanges
+Dotti Seri
+Dotti Speziale
+Dotti Valbonesi
+Dotti Veneziano
+Dotti Vinciguerra
+Fico Fusini
+Fico Gealapu
+Fico Giurgola
+Fico Leone
+Fico Martys
+Fico Milenov
+Fico Mucci
+Fico Nicastro
+Fico Nini
+Fico Pasolini
+Fico Perrone
+Fico Pompili
+Fico Renzulli
+Fico Riboloni
+Fico Rizzelli
+Fico Rudel
+Fico Sanges
+Fico Speziale
+Fico Tarnogrodzki
+Fico Valbonesi
+Fico Veneziano
+Fico Vinciguerra
+Fico Wilmer
+Fiumi Fusini
+Fiumi Gealapu
+Fiumi Giurgola
+Fiumi Leone
+Fiumi Martys
+Fiumi Mucci
+Fiumi Nicastro
+Fiumi Nini
+Fiumi Pasolini
+Fiumi Perrone
+Fiumi Pompili
+Fiumi Riboloni
+Fiumi Rizzelli
+Fiumi Rudel
+Fiumi Sanges
+Fiumi Seri
+Fiumi Tarnogrodzki
+Fiumi Veneziano
+Fiumi Vinciguerra
+Fusini Gealapu
+Fusini Leone
+Fusini Martys
+Fusini Milenov
+Fusini Mucci
+Fusini Nicastro
+Fusini Nini
+Fusini Pasolini
+Fusini Perrone
+Fusini Pompili
+Fusini Renzulli
+Fusini Riboloni
+Fusini Rizzelli
+Fusini Rudel
+Fusini Sanges
+Fusini Seri
+Fusini Speziale
+Fusini Tarnogrodzki
+Fusini Valbonesi
+Fusini Veneziano
+Fusini Vinciguerra
+Fusini Wilmer
+Gealapu Leone
+Gealapu Martys
+Gealapu Milenov
+Gealapu Nicastro
+Gealapu Nini
+Gealapu Perrone
+Gealapu Pompili
+Gealapu Renzulli
+Gealapu Riboloni
+Gealapu Rizzelli
+Gealapu Seri
+Gealapu Speziale
+Gealapu Tarnogrodzki
+Gealapu Valbonesi
+Gealapu Veneziano
+Gealapu Vinciguerra
+Gealapu Wilmer
+Giurgola Leone
+Giurgola Martys
+Giurgola Nicastro
+Giurgola Perrone
+Giurgola Rizzelli
+Giurgola Rudel
+Giurgola Valbonesi
+Giurgola Veneziano
+Giurgola Wilmer
+Leone Milenov
+Leone Mucci
+Leone Nicastro
+Leone Nini
+Leone Pasolini
+Leone Perrone
+Leone Pompili
+Leone Renzulli
+Leone Riboloni
+Leone Rizzelli
+Leone Rudel
+Leone Sanges
+Leone Seri
+Leone Speziale
+Leone Tarnogrodzki
+Leone Valbonesi
+Leone Veneziano
+Leone Vinciguerra
+Leone Wilmer
+Martys Milenov
+Martys Mucci
+Martys Nicastro
+Martys Pasolini
+Martys Perrone
+Martys Pompili
+Martys Riboloni
+Martys Rizzelli
+Martys Rudel
+Martys Sanges
+Martys Speziale
+Martys Tarnogrodzki
+Martys Valbonesi
+Martys Veneziano
+Martys Wilmer
+Milenov Mucci
+Milenov Nicastro
+Milenov Pasolini
+Milenov Perrone
+Milenov Pompili
+Milenov Renzulli
+Milenov Riboloni
+Milenov Rizzelli
+Milenov Rudel
+Milenov Sanges
+Milenov Seri
+Milenov Speziale
+Milenov Valbonesi
+Milenov Veneziano
+Milenov Vinciguerra
+Mucci Nicastro
+Mucci Pompili
+Mucci Rizzelli
+Mucci Rudel
+Mucci Speziale
+Mucci Veneziano
+Mucci Vinciguerra
+Nicastro Pasolini
+Nicastro Perrone
+Nicastro Renzulli
+Nicastro Riboloni
+Nicastro Rizzelli
+Nicastro Rudel
+Nicastro Sanges
+Nicastro Seri
+Nicastro Speziale
+Nicastro Valbonesi
+Nicastro Veneziano
+Nicastro Vinciguerra
+Nini Perrone
+Nini Riboloni
+Nini Rizzelli
+Nini Rudel
+Nini Speziale
+Nini Valbonesi
+Nini Veneziano
+Nini Wilmer
+Pasolini Perrone
+Pasolini Riboloni
+Pasolini Rizzelli
+Pasolini Rudel
+Pasolini Speziale
+Pasolini Veneziano
+Pasolini Vinciguerra
+Pasolini Wilmer
+Perrone Pompili
+Perrone Renzulli
+Perrone Riboloni
+Perrone Rizzelli
+Perrone Rudel
+Perrone Sanges
+Perrone Seri
+Perrone Speziale
+Perrone Tarnogrodzki
+Perrone Valbonesi
+Perrone Veneziano
+Perrone Vinciguerra
+Perrone Wilmer
+Pompili Renzulli
+Pompili Riboloni
+Pompili Rizzelli
+Pompili Rudel
+Pompili Seri
+Pompili Speziale
+Pompili Tarnogrodzki
+Pompili Veneziano
+Pompili Vinciguerra
+Pompili Wilmer
+Renzulli Riboloni
+Renzulli Rizzelli
+Renzulli Rudel
+Renzulli Seri
+Renzulli Speziale
+Renzulli Veneziano
+Renzulli Vinciguerra
+Renzulli Wilmer
+Riboloni Rizzelli
+Riboloni Rudel
+Riboloni Sanges
+Riboloni Speziale
+Riboloni Tarnogrodzki
+Riboloni Valbonesi
+Riboloni Veneziano
+Riboloni Vinciguerra
+Riboloni Wilmer
+Rizzelli Rudel
+Rizzelli Sanges
+Rizzelli Seri
+Rizzelli Speziale
+Rizzelli Tarnogrodzki
+Rizzelli Valbonesi
+Rizzelli Veneziano
+Rizzelli Vinciguerra
+Rizzelli Wilmer
+Rudel Sanges
+Rudel Speziale
+Rudel Tarnogrodzki
+Rudel Valbonesi
+Rudel Veneziano
+Rudel Vinciguerra
+Rudel Wilmer
+Sanges Speziale
+Sanges Veneziano
+Sanges Wilmer
+Seri Speziale
+Seri Valbonesi
+Seri Veneziano
+Seri Vinciguerra
+Speziale Tarnogrodzki
+Speziale Valbonesi
+Speziale Veneziano
+Speziale Vinciguerra
+Speziale Wilmer
+Tarnogrodzki Veneziano
+Tarnogrodzki Wilmer
+Valbonesi Veneziano
+Valbonesi Vinciguerra
+Valbonesi Wilmer
+Veneziano Vinciguerra
+Veneziano Wilmer
+Vinciguerra Wilmer
+almeno 15 pizze
+Bernardo Chesti Fico Fusini Leone Milenov Nicastro Perrone Riboloni Rizzelli Rudel Speziale Valbonesi Veneziano Vinciguerra 
+40 pizze
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Lattanzi 
+Acciughe Aglio Ananas Asparagi Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Cipolla Cipolla_Rossa Crema_di_Zucca 
+Bellini 
+Acciughe Aglio Ananas Asparagi Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Brambilla 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Carciofi Carciofini Cavolo_Nero Cipolla_Rossa Crema_di_Zucca 
+Castagna 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Angelicchio 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Veneziano 
+Acciughe Aglio Ananas Asparagi Banane Basilico Bresaola Brie Broccoli Burrata Capperi Carciofi Carciofini Cavolo_Nero Cipolla Cipolla_Rossa 
+Fiumi 
+Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Capperi Carciofi Cavolo_Nero Champignon Cipolla Cipolla_Rossa 
+Castelli 
+Acciughe Ananas Asparagi Bacon Banane Basilico Bresaola Brie Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla_Rossa Crema_di_Zucca 
+Dotti 
+Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Carciofi Carciofini Cipolla Crema_di_Zucca 
+Delgado 
+Ananas Asparagi Banane Basilico Bresaola Brie Burrata Caciocavallo Carciofi Carciofini Champignon Cipolla 
+Milenov 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Brie Caciocavallo Capperi Carciofi Carciofini Champignon Cipolla Crema_di_Zucca 
+DiStefano 
+Acciughe Aglio Ananas Bacon Banane Basilico Bresaola Brie Caciocavallo Capperi Carciofini Cavolo_Nero Champignon Crema_di_Zucca 
+Valbonesi 
+Acciughe Aglio Ananas Asparagi Bacon Banane Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofini Cavolo_Nero Champignon Cipolla_Rossa Crema_di_Zucca 
+Perrone 
+Acciughe Ananas Asparagi Banane Basilico Brie Broccoli Burrata Caciocavallo Carciofi Carciofini Cavolo_Nero Champignon Cipolla_Rossa 
+Bernardo 
+Acciughe Aglio Ananas Asparagi Banane Basilico Bresaola Capperi Carciofi Carciofini Champignon Cipolla Cipolla_Rossa 
+Tarnogrodzki 
+Acciughe Ananas Asparagi Bacon Banane Basilico Brie Caciocavallo Capperi Carciofini Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Pompili 
+Acciughe Aglio Asparagi Banane Basilico Bresaola Brie Caciocavallo Capperi Cavolo_Nero Champignon Cipolla_Rossa Crema_di_Zucca 
+Chesti 
+Aglio Ananas Asparagi Banane Basilico Bresaola Broccoli Caciocavallo Capperi Carciofi Cipolla Cipolla_Rossa Crema_di_Zucca 
+Nini 
+Acciughe Aglio Ananas Asparagi Bacon Brie Broccoli Burrata Caciocavallo Carciofi Cavolo_Nero Champignon Cipolla 
+Riboloni 
+Acciughe Aglio Ananas Asparagi Bacon Basilico Bresaola Burrata Capperi Carciofini Cavolo_Nero Champignon 
+Mucci 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Burrata Carciofi Carciofini Cipolla Cipolla_Rossa 
+Wilmer 
+Aglio Ananas Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Cavolo_Nero Champignon 
+DiCarlo 
+Acciughe Aglio Bacon Basilico Bresaola Burrata Caciocavallo Capperi Carciofini Champignon Cipolla_Rossa 
+Pasolini 
+Acciughe Asparagi Bacon Banane Bresaola Brie Broccoli Burrata Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa 
+Bagnaia 
+Aglio Ananas Bacon Banane Basilico Caciocavallo Capperi Carciofi Cavolo_Nero Cipolla Cipolla_Rossa 
+Giurgola 
+Aglio Asparagi Bacon Bresaola Brie Burrata Capperi Carciofi Cavolo_Nero Champignon Crema_di_Zucca 
+Rudel 
+Acciughe Aglio Ananas Banane Brie Broccoli Burrata Capperi Carciofi Carciofini Cipolla_Rossa 
+Fico 
+Acciughe Aglio Ananas Asparagi Banane Basilico Brie Broccoli Capperi Cavolo_Nero Cipolla Crema_di_Zucca 
+DeLuca 
+Aglio Ananas Bresaola Brie Broccoli Burrata Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla_Rossa 
+Seri 
+Ananas Bacon Banane Basilico Caciocavallo Carciofi Carciofini Cavolo_Nero Champignon Cipolla Crema_di_Zucca 
+Fusini 
+Acciughe Aglio Asparagi Bacon Basilico Brie Broccoli Burrata Caciocavallo Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Martys 
+Ananas Asparagi Banane Basilico Bresaola Brie Burrata Caciocavallo Carciofi Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Speziale 
+Acciughe Ananas Asparagi Bacon Basilico Bresaola Brie Burrata Caciocavallo Capperi Champignon Cipolla Cipolla_Rossa 
+Nicastro 
+Aglio Asparagi Banane Basilico Bresaola Brie Burrata Caciocavallo Capperi Carciofini Crema_di_Zucca 
+Rizzelli 
+Acciughe Ananas Bacon Banane Brie Broccoli Burrata Capperi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Gealapu 
+Bacon Banane Basilico Broccoli Burrata Caciocavallo Capperi Cavolo_Nero Cipolla_Rossa Crema_di_Zucca 
+Leone 
+Acciughe Asparagi Bacon Bresaola Brie Broccoli Caciocavallo Carciofi Carciofini Cavolo_Nero Cipolla Cipolla_Rossa Crema_di_Zucca 
+Vinciguerra 
+Bacon Basilico Bresaola Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Cipolla Cipolla_Rossa 
+Sanges 
+Banane Basilico Bresaola Brie Broccoli Capperi Carciofini Cavolo_Nero Cipolla Cipolla_Rossa 
+Renzulli 

@@ -1,0 +1,165 @@
+20 ingredienti
+Ananas 0 3 2
+Banane 1 4 4
+Champignon 1 3 5
+Carciofi 1 3 4
+Bresaola 2 3 4
+Caciocavallo 2 3 4
+Cipolla 2 3 2
+Broccoli 2 2 4
+Cipolla_Rossa 2 2 3
+Capperi 2 1 6
+Crema_di_Zucca 2 1 5
+Brie 2 1 3
+Burrata 2 1 1
+Bacon 3 4 1
+Basilico 3 3 2
+Asparagi 4 3 2
+Carciofini 4 2 2
+Cavolo_Nero 4 2 1
+Aglio 4 0 2
+Acciughe 5 2 3
+20 clienti
+Capanna 1 1
+Gentili 1 2
+Capone 1 5
+DeAngelis 1 5
+Chaibi 2 0
+Bushulli 3 3
+Terracciano 3 3
+Forcina 3 5
+Strazzanti 4 1
+Harasymiuk 4 5
+Ferrante 5 0
+Guerra 6 3
+Caligiuri 7 0
+Cozzolino 7 2
+Bianco 7 3
+Guida 7 4
+Caporilli 7 5
+Moretti 7 5
+Cangini 8 4
+Casadei 10 4
+esclusioni
+1 per 0 clienti
+3 per 1 clienti
+9 per 2 clienti
+2 per 3 clienti
+4 per 4 clienti
+1 per 5 clienti
+78 coppie incompatibili
+Bianco Caligiuri
+Bianco Caporilli
+Bianco Chaibi
+Bianco Cozzolino
+Bianco DeAngelis
+Bianco Ferrante
+Bianco Forcina
+Bianco Guerra
+Bianco Guida
+Bianco Harasymiuk
+Bianco Moretti
+Bianco Strazzanti
+Bushulli Caligiuri
+Bushulli Cangini
+Bushulli Casadei
+Bushulli Ferrante
+Bushulli Harasymiuk
+Bushulli Strazzanti
+Caligiuri Cangini
+Caligiuri Caporilli
+Caligiuri Casadei
+Caligiuri Forcina
+Caligiuri Guerra
+Caligiuri Guida
+Caligiuri Moretti
+Caligiuri Strazzanti
+Caligiuri Terracciano
+Cangini Capone
+Cangini Caporilli
+Cangini Casadei
+Cangini Cozzolino
+Cangini Ferrante
+Cangini Forcina
+Cangini Guerra
+Cangini Guida
+Cangini Harasymiuk
+Cangini Moretti
+Cangini Strazzanti
+Cangini Terracciano
+Capanna Casadei
+Capone Guida
+Capone Moretti
+Caporilli Casadei
+Caporilli Ferrante
+Caporilli Guerra
+Caporilli Guida
+Casadei Chaibi
+Casadei Cozzolino
+Casadei DeAngelis
+Casadei Ferrante
+Casadei Forcina
+Casadei Guida
+Casadei Harasymiuk
+Casadei Strazzanti
+Chaibi Gentili
+Chaibi Moretti
+Cozzolino Ferrante
+Cozzolino Guerra
+Cozzolino Guida
+Cozzolino Harasymiuk
+Cozzolino Moretti
+Cozzolino Terracciano
+DeAngelis Guerra
+DeAngelis Guida
+Ferrante Forcina
+Ferrante Gentili
+Ferrante Guida
+Ferrante Harasymiuk
+Ferrante Moretti
+Ferrante Terracciano
+Guerra Guida
+Guerra Harasymiuk
+Guerra Strazzanti
+Guida Harasymiuk
+Guida Moretti
+Guida Strazzanti
+Harasymiuk Strazzanti
+Strazzanti Terracciano
+almeno 6 pizze
+Cangini Casadei Cozzolino Ferrante Guida Harasymiuk 
+17 pizze
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Capanna DeAngelis Gentili 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla_Rossa Crema_di_Zucca 
+Chaibi Ferrante 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Strazzanti 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Cipolla 
+Harasymiuk 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Cavolo_Nero Champignon Cipolla 
+Terracciano 
+Acciughe Aglio Ananas Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Bianco 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Capperi Carciofi Carciofini Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Forcina 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Brie Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Capone 
+Aglio Ananas Asparagi Bacon Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Moretti 
+Ananas Asparagi Bacon Banane Bresaola Brie Broccoli Burrata Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Caporilli 
+Aglio Ananas Bacon Banane Basilico Bresaola Brie Broccoli Caciocavallo Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Guerra 
+Acciughe Aglio Ananas Asparagi Bacon Banane Basilico Brie Burrata Caciocavallo Capperi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Caligiuri 
+Acciughe Aglio Ananas Asparagi Banane Bresaola Brie Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Cangini 
+Acciughe Ananas Asparagi Banane Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Bushulli 
+Acciughe Ananas Bacon Basilico Bresaola Brie Broccoli Burrata Caciocavallo Capperi Carciofi Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Casadei 
+Aglio Ananas Banane Basilico Bresaola Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Guida 
+Ananas Asparagi Bacon Banane Bresaola Broccoli Burrata Caciocavallo Capperi Carciofi Carciofini Cavolo_Nero Champignon Cipolla Cipolla_Rossa Crema_di_Zucca 
+Cozzolino 

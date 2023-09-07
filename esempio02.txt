@@ -1,0 +1,161 @@
+40
+Angelicchio
+1 Acciughe
+5 Carciofini Champignon Cipolla_Rossa Bresaola Capperi
+1 Broccoli
+Bagnaia
+0
+0
+5 Ananas Aglio Basilico Crema_di_Zucca Caciocavallo
+Bellini
+1 Cipolla
+2 Capperi Acciughe
+2 Champignon Bacon
+Bernardo
+5 Burrata Brie Cipolla_Rossa Asparagi Carciofini
+3 Acciughe Basilico Broccoli
+6 Aglio Capperi Bresaola Crema_di_Zucca Cipolla Bacon
+Brambilla
+4 Asparagi Aglio Ananas Banane
+5 Acciughe Caciocavallo Capperi Cipolla_Rossa Burrata
+2 Carciofini Bacon
+Castagna
+2 Crema_di_Zucca Broccoli
+5 Banane Acciughe Brie Asparagi Ananas
+4 Champignon Cipolla Capperi Caciocavallo
+Castelli
+4 Burrata Basilico Champignon Carciofi
+0
+4 Crema_di_Zucca Carciofini Caciocavallo Acciughe
+Chesti
+3 Champignon Bresaola Cipolla_Rossa
+3 Asparagi Crema_di_Zucca Cavolo_Nero
+7 Burrata Cipolla Broccoli Carciofini Carciofi Bacon Ananas
+DeLuca
+0
+0
+8 Caciocavallo Cipolla_Rossa Bresaola Burrata Carciofini Carciofi Champignon Bacon
+Delgado
+1 Aglio
+4 Basilico Caciocavallo Broccoli Carciofi
+5 Acciughe Champignon Capperi Cavolo_Nero Cipolla_Rossa
+DiCarlo
+3 Burrata Brie Bresaola
+1 Capperi
+7 Asparagi Crema_di_Zucca Carciofini Bacon Acciughe Cipolla Cipolla_Rossa
+DiStefano
+0
+4 Carciofini Cipolla Caciocavallo Ananas
+5 Bresaola Broccoli Cavolo_Nero Burrata Cipolla_Rossa
+Dotti
+1 Asparagi
+0
+3 Cipolla Aglio Broccoli
+Fico
+4 Cipolla_Rossa Aglio Carciofini Broccoli
+3 Ananas Burrata Brie
+9 Asparagi Bresaola Cavolo_Nero Crema_di_Zucca Cipolla Bacon Caciocavallo Basilico Champignon
+Fiumi
+2 Banane Brie
+1 Aglio
+4 Caciocavallo Crema_di_Zucca Champignon Bacon
+Fusini
+4 Cavolo_Nero Banane Cipolla Caciocavallo
+5 Carciofini Bacon Champignon Basilico Ananas
+9 Capperi Cipolla_Rossa Bresaola Acciughe Broccoli Aglio Asparagi Brie Burrata
+Gealapu
+2 Capperi Bacon
+2 Ananas Acciughe
+6 Basilico Carciofi Caciocavallo Bresaola Aglio Asparagi
+Giurgola
+0
+1 Capperi
+9 Bresaola Burrata Asparagi Crema_di_Zucca Broccoli Carciofini Champignon Brie Acciughe
+Lattanzi
+0
+1 Bacon
+0
+Leone
+5 Basilico Caciocavallo Crema_di_Zucca Broccoli Cavolo_Nero
+0
+10 Carciofini Champignon Acciughe Aglio Brie Bresaola Cipolla Asparagi Ananas Carciofi
+Martys
+1 Broccoli
+5 Burrata Cipolla_Rossa Cipolla Caciocavallo Champignon
+6 Capperi Bresaola Carciofini Ananas Carciofi Banane
+Milenov
+2 Banane Carciofi
+0
+8 Aglio Cipolla_Rossa Capperi Crema_di_Zucca Bacon Broccoli Acciughe Cavolo_Nero
+Mucci
+0
+5 Cavolo_Nero Capperi Carciofini Acciughe Asparagi
+8 Broccoli Banane Caciocavallo Carciofi Brie Crema_di_Zucca Cipolla_Rossa Cipolla
+Nicastro
+3 Ananas Asparagi Cipolla_Rossa
+5 Cipolla Brie Acciughe Champignon Burrata
+7 Banane Cavolo_Nero Broccoli Crema_di_Zucca Carciofini Aglio Carciofi
+Nini
+0
+4 Carciofi Broccoli Cipolla Aglio
+7 Brie Bacon Acciughe Carciofini Burrata Champignon Cavolo_Nero
+Pasolini
+0
+4 Capperi Acciughe Aglio Champignon
+9 Carciofi Brie Ananas Cipolla Broccoli Cavolo_Nero Crema_di_Zucca Banane Asparagi
+Perrone
+5 Asparagi Cavolo_Nero Carciofini Ananas Bacon
+2 Aglio Acciughe
+3 Basilico Cipolla Carciofi
+Pompili
+2 Caciocavallo Basilico
+3 Cipolla Capperi Brie
+6 Burrata Bresaola Broccoli Cavolo_Nero Aglio Carciofi
+Renzulli
+1 Basilico
+2 Bresaola Cipolla
+10 Asparagi Champignon Aglio Acciughe Crema_di_Zucca Bacon Burrata Carciofi Caciocavallo Ananas
+Riboloni
+2 Cavolo_Nero Ananas
+4 Asparagi Carciofi Burrata Champignon
+7 Cipolla_Rossa Bresaola Banane Carciofini Capperi Basilico Crema_di_Zucca
+Rizzelli
+4 Burrata Bresaola Banane Caciocavallo
+4 Carciofini Aglio Brie Basilico
+9 Champignon Cipolla Ananas Broccoli Cipolla_Rossa Acciughe Bacon Carciofi Cavolo_Nero
+Rudel
+3 Brie Capperi Champignon
+1 Carciofi
+9 Basilico Caciocavallo Broccoli Cipolla Banane Cipolla_Rossa Ananas Acciughe Carciofini
+Sanges
+0
+0
+10 Champignon Brie Crema_di_Zucca Burrata Ananas Banane Broccoli Aglio Asparagi Acciughe
+Seri
+0
+4 Capperi Bresaola Burrata Carciofini
+8 Caciocavallo Crema_di_Zucca Cipolla Banane Asparagi Basilico Bacon Acciughe
+Speziale
+5 Cipolla Ananas Cipolla_Rossa Banane Cavolo_Nero
+3 Crema_di_Zucca Champignon Caciocavallo
+6 Carciofini Capperi Aglio Broccoli Acciughe Bacon
+Tarnogrodzki
+0
+3 Asparagi Carciofi Aglio
+7 Crema_di_Zucca Caciocavallo Bacon Brie Burrata Broccoli Cavolo_Nero
+Valbonesi
+3 Carciofini Capperi Basilico
+3 Bresaola Aglio Brie
+6 Carciofi Burrata Cipolla Broccoli Cipolla_Rossa Asparagi
+Veneziano
+5 Broccoli Champignon Ananas Crema_di_Zucca Basilico
+3 Burrata Cavolo_Nero Caciocavallo
+1 Brie
+Vinciguerra
+1 Cipolla
+2 Asparagi Caciocavallo
+7 Champignon Burrata Capperi Banane Basilico Aglio Ananas
+Wilmer
+2 Burrata Ananas
+4 Carciofini Basilico Carciofi Cipolla_Rossa
+6 Broccoli Capperi Cavolo_Nero Caciocavallo Champignon Crema_di_Zucca

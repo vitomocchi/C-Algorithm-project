@@ -1,0 +1,21 @@
+5
+Berardi
+1 Banane
+3 Bacon Asparagi Acciughe
+0
+Gallo
+3 Aglio Ananas Banane
+2 Brie Asparagi
+2 Bresaola Acciughe
+Lippi
+4 Broccoli Brie Aglio Asparagi
+4 Bresaola Acciughe Bacon Banane
+0
+Prelati
+3 Ananas Aglio Basilico
+2 Banane Bacon
+1 Broccoli
+Valbonesi
+3 Banane Asparagi Acciughe
+1 Aglio
+4 Brie Broccoli Ananas Bacon
